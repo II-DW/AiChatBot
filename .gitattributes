@@ -1,0 +1,2 @@
+models/intent_model.h5 filter=lfs diff=lfs merge=lfs -text
+models/utils/말뭉치.txt filter=lfs diff=lfs merge=lfs -text
