@@ -1,9 +1,7 @@
 # 나만의 데이터를 활용한 AI-ChatBot 만들기 
 
 <div align="center">
-<img src="https://img.shields.io/badge/Python
--black?style=flat&logo=python
-&logoColor=#3776AB"/> <img src="https://img.shields.io/badge/TensorFlow-black?style=flat&logo=TensorFlow&logoColor=#3776AB"/> 
+<img src="https://img.shields.io/badge/TensorFlow-black?style=flat&logo=TensorFlow&logoColor=#3776AB"/> 
 </div>
 
 # 현재 진행 상황 
