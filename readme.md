@@ -13,7 +13,10 @@
 ## 3. 데이터 인덱싱을 바탕으로 데이터를 정수열로 변환하기
 ## 4. 정수열로 변환 된 데이터를 정수열인 발화의도로 분류하기
 
-https://user-images.githubusercontent.com/69490709/222897003-dcbd80b1-5901-4ed5-9674-9fdf56813f35.gif
+![aigif (2)](https://user-images.githubusercontent.com/69490709/222899815-e4d42f1b-cd39-4463-9c6c-fbd473780a7b.gif)
+
+
+
 ## 5. (예정) 
 
 
